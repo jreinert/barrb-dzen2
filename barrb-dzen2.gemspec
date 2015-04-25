@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'barrb/dzen2/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'barrb'
+  spec.name          = 'barrb-dzen2'
   spec.version       = Barrb::Dzen2::VERSION
   spec.authors       = ['Joakim Reinert']
   spec.email         = ['mail+barrb@jreinert.com']
